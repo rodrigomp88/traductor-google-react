@@ -1,3 +1,4 @@
+/* eslint-disable react/style-prop-object */
 import { useEffect, useState } from "react";
 import TextBox from "./components/TextBox";
 import Arrows from "./components/Arrows";
