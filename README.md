@@ -1,4 +1,4 @@
-# Clone del Traductor de google
+# Clone google translate
 
 ![](gifVideo.gif)
 
